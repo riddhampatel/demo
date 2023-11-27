@@ -1,2 +1,3 @@
 # demo
-practice
+thish is my first Repository.
+Author - Riddham
